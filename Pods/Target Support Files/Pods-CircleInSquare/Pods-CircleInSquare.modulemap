@@ -1,0 +1,6 @@
+framework module Pods_CircleInSquare {
+  umbrella header "Pods-CircleInSquare-umbrella.h"
+
+  export *
+  module * { export * }
+}
